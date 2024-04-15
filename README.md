@@ -20,4 +20,34 @@ Ciò che rende TrovaMi unica rispetto ad altri strumenti o servizi simili è la 
 Per utilizzare il repository di TrovaMi, segui questi passaggi:
 
 1. Clona il repository sul tuo computer:
+git clone https://github.com/Es-salih/Python2.git
+
+2. Assicurati di avere Python installato sul tuo sistema.
+
+3. Vai nella directory del repository:
+cd progetto_prodigi
+
+2. Assicurati di avere Python installato sul tuo sistema.
+
+3. Vai nella directory del repository:
+cd Pyton2
+
+4. Vai in venv:
+source .venv/bin/activate
+5. Vai nella directory mysite
+## Funzionalità future
+
+Alcune funzionalità che potrebbero essere implementate in futuro includono:
+- migliorare la visualizzazione dell'immagine.
+- aggiunta la funzionalità di esegui.
+- Miglioramenti all'algoritmo di ricerca per suggerimenti più accurati.
+- Implementazione di un sistema di votazione per valutare la qualità dei suggerimenti forniti dalla comunità.
+- Aggiunta di funzionalità di messaggistica per facilitare la comunicazione tra gli utenti che forniscono e ricevono suggerimenti.
+- migliorare lo stile del sito.
+## Riferimenti in rete
+- [Tutorial di Git](https://git-scm.com/docs/gittutorial)
+- [LayoutIt!](https://layoutit.com/)
+- [Django Tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
+## Screenshot
+![image](https://github.com/Es-salih/Python2/assets/161012801/cf71ddf3-1c0d-4d3e-9cd4-bd59663e1928)
 
